@@ -1,5 +1,4 @@
-I’m iOS Developer
-
+software developer
 
 <!---
 zit247/zit247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
